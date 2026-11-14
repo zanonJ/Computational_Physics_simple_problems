@@ -1,0 +1,15 @@
+# Only the four project folders (and this README) go to GitHub;
+# the other scripts and drafts in this folder stay local.
+/*
+!/.gitignore
+!/README.md
+!/Trabalho 1 (FC)/
+!/Trabalho 2 (FC)/
+!/Trabalho 3 (FC)/
+!/Trabalho 4 (FC)/
+
+# Generated files
+__pycache__/
+*.pyc
+.DS_Store
+/Trabalho 3 (FC)/configuracoes/
